@@ -12,7 +12,7 @@ export default function Ipad2n2(){
             <h3>Serious performance in a thin and</h3>
             <h4>light design.</h4>
             <h2>From $800</h2>
-            <button navigate=("/Store")> Learn more</button>
+            <button onClick={()=>{ navigate=("/Store")}}> Learn more</button>
             <a href="/BuyIpadAir">Buy</a>
         </div>
     )
