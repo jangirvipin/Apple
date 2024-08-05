@@ -15,7 +15,7 @@ export default function Mac1(){
             </div>
             </div>
 
-            <video src={a} autoPlay muted ></video>
+            <video src={a} autoPlay loop muted ></video>
         </div>
     )
 }
