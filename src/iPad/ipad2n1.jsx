@@ -14,7 +14,7 @@ export default function Ipad2n1(){
             <h3>The ultimate iPad experience with the most</h3>
             <h4>advanced technology.</h4>
             <h2>From $1200</h2>
-            <button href="/Store> Learn more</button>
+            <button navigate=("/Store)> Learn more</button>
           <a href="/BuyIpadPro">Buy</a>
         </div>
     )
