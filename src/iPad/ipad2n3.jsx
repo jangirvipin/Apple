@@ -13,7 +13,7 @@ export default function Ipad2n3(){
             <h3>The colourful, all‑screen iPad for </h3>
             <h4>the things you do every day.</h4>
             <h2>From $500</h2>
-            <button> Learn more</button>
+            <button href="/Store"> Learn more</button>
             <a href="/BuyIPad">Buy</a>
         </div>
     )
