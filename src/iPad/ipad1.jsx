@@ -15,7 +15,7 @@ export default function Ipad1(){
             
            
             </div>
-            <video src={a} autoPlay muted></video>
+            <video src={a} autoPlay loop muted></video>
         </div>
     )
 }
